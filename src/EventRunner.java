@@ -1,8 +1,10 @@
-public class EventRunner {
-    private int gameBoard;
-    private int frameTimer;
+import java.util.Timer;
 
-    public EventRunner(int gameBoard, int frameTimer) {
+public class EventRunner {
+    private GameBoard gameBoard;
+    private Timer frameTimer;
+
+    public EventRunner(GameBoard gameBoard, Timer frameTimer) {
         this.gameBoard = gameBoard;
         this.frameTimer = frameTimer;
     }
