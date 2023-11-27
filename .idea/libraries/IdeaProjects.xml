@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IdeaProjects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Super Mario Bros/libs/jbox2d-library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
